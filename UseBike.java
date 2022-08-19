@@ -39,6 +39,10 @@ public class UseBike {
 			{
 				System.out.println(b.getbrand()+" is contains ");
 			}
+			else
+			{
+				System.out.println(b.getPrice());
+			}
 			
 		
 	}
